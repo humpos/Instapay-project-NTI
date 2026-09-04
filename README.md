@@ -10,10 +10,12 @@ instapay_simulation/
 ├── auth.py          # Registration and login
 ├── validation.py    # Input validation
 ├── operations.py    # Wallet and money operations
-└── README.md
+└── README.md        # a README file for GitHub
 ```
 
 ## Features
+
+This project includes the following features:-
 
 - Register with full name, phone number, username, and password
 - Unique username validation
@@ -30,6 +32,14 @@ instapay_simulation/
 - Graceful handling of invalid input
 - Multi-file organization using Python modules
 
+## Upcoming features for the future
+
+Features i might add in the future
+
+- Easier way to navigate between menus
+- a File/database to store accounts
+- Linking the visa having a functionality
+
 ## Important Note
 
 This is an educational simulation made for my NTI project. User data is stored only while the program is running and is not saved to a database or file.
@@ -42,7 +52,11 @@ Open a terminal inside the project folder and run:
 python main.py
 ```
 
+OR use a text editor like VS Code which is way easier.
+
 ## Suggested Demo Scenario
+
+try this demo to see if the project works on your device
 
 1. Register user A.
 2. Register user B.
