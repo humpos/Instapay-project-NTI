@@ -20,7 +20,7 @@ instapay_simulation/
 - Password validation (minimum 6 characters)
 - Egyptian phone number validation
 - Login with a maximum of 3 attempts
-- Link a Visa card with basic validation
+- Link a Visa card with basic validation (has no functionality though)
 - View balance
 - Deposit money
 - Withdraw money without exceeding the balance
@@ -32,7 +32,7 @@ instapay_simulation/
 
 ## Important Note
 
-This is an educational simulation. User data is stored only while the program is running and is not saved to a database or file.
+This is an educational simulation made for my NTI project. User data is stored only while the program is running and is not saved to a database or file.
 
 ## How to Run
 
